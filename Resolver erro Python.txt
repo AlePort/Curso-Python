@@ -1,0 +1,13 @@
+Deletar:
+
+System32\libiomp5md.dll
+System32\mkl_core.dll
+System32\mkl_def.dll
+System32\mkl_intel_thread.dll
+SysWOW64\libiomp5md.dll
+SysWOW64\mkl_core.dll
+SysWOW64\mkl_intel_thread.dll
+SysWOW64\mkl_p4.dll
+SysWOW64\mkl_p4m.dll
+SysWOW64\mkl_p4m3.dll
+SysWOW64\mkl_p4p.dll
